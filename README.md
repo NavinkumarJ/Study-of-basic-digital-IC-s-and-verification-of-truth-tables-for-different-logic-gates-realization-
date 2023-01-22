@@ -63,8 +63,8 @@ Y= A⊕B
 ## Program:
 ```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: Santhosh U
-RegisterNumber: 22009224
+Developed by: NAVIN KUMAR J
+RegisterNumber: 22009212
 module Gates(a,b,p,q,r,w,x,y,z);
 input a,b;
 output p,q,r,x,w,y,z;
